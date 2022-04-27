@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CompressFile</string>
+    <string name="compress">Compress</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="quality">Quality:</string>
+    <string name="height">Height</string>
+</resources>
